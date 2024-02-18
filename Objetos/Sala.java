@@ -1,2 +1,4 @@
-package Objetos;public class Sala {
+package Objetos;
+
+public class Sala {
 }

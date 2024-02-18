@@ -1,2 +1,4 @@
-package Objetos;public class Pelicula {
+package Objetos;
+
+public class Pelicula {
 }
